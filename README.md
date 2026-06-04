@@ -1,1 +1,2 @@
-# my-first-project-VC
+ # my-first-project-VC
+ * Успехов мне в учебе, пусть все у меня получиться! *
